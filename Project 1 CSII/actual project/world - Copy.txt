@@ -1,0 +1,19 @@
+   aaa    
+ B  aa    
+ B   a    
+ B    aaa 
+      aaa 
+a     aaa 
+a         
+a   aaaa  
+    aaaa  
+
+   aaa    
+  B a a   
+  B   a   
+  B   aa a
+      aaa 
+a     aaa 
+a         
+a   aaaa  
+    aaaa  

@@ -1,0 +1,94 @@
+Turn 1
+
+   aaa    
+  B a a   
+  B   a   
+  B   aa a
+      aaa 
+a     aaa 
+a         
+a   aaaa  
+    aaaa  
+          
+
+Turn 2
+
+   aaa    
+   B a a  
+   B   a  
+   B  a aa
+      aaa 
+a     aaa 
+a         
+a   aaaa  
+    aaaa  
+          
+
+Turn 3
+
+   Baaaa  
+     aaaa 
+    B  aaa
+    B aaaa
+a     aaaa
+a     aaaa
+aa  aaaa  
+aa  aaaaa 
+    aaaaa 
+    aaa   
+
+
+Turn 4
+
+    Baa a 
+     aaaa 
+     B aaa
+     Baaaa
+a     aaaa
+a     aaaa
+aa  aaaa  
+aa  aaaaa 
+    aaaaa 
+    aaa   
+
+
+Turn 5
+
+     B a a
+     Baa a
+       aaa
+      Baaa
+a     aaaa
+a     aaaa
+aa  aaaa  
+aa  aaaaa 
+    aaaaa 
+    aaa   
+
+
+Turn 6
+
+      Baaa
+      Baaa
+       aaa
+a     aBaa
+a     aaaa
+aa  aaaaaa
+aaa aaaaaa
+aaaaaaaaaa
+a  aaaaaaa
+   aaaaaa 
+
+
+Turn 7
+
+       Baa
+       Baa
+        aa
+a    a aBa
+a     aaaa
+aa  aaaaaa
+aaa aaaaaa
+aaaaaaaaaa
+a  aaaaaaa
+   aaaaaa 
